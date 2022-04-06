@@ -1,0 +1,4 @@
+- Hi there
+- I'm Naserian
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me: ...email nasekashu48@gmail.com
